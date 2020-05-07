@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Mauro
+                    Mauro Cespedes Araya
                 </div>
 
                 <div class="links">
